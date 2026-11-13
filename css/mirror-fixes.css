@@ -1,0 +1,32 @@
+/* Auto-generated mirror polish — overrides broken/missing remote assets */
+a.tabledrag-handle .handle,
+div.tree-child,
+div.tree-child-last {
+  background-image: none;
+}
+
+.service-links-twitter {
+  display: none;
+}
+
+#views_slideshow_cycle_teaser_section_slideshow-block {
+  max-width: 667px;
+  margin: 0 auto;
+}
+
+#block-views-slideshow-block .image-style-slideshow {
+  width: 100%;
+  max-width: 667px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+#block-views-siste-nytt-block .views-field-field-artist-frontbilde,
+#block-views-siste-nytt-block #latest-news-img {
+  display: none !important;
+}
+
+#block-views-older-news-block #older-post-img {
+  display: none !important;
+}
